@@ -1,8 +1,7 @@
 # IW Express API Documentation (v2.7)
 
 📌 **Environment**: Development  
-📌 **Base URL**: `https://dev-b2b.iwexpress.com:5001/iwexpress/iwe-integration-service`  
-📌 **Auth**: Basic `$2a$10$qWHNeBhu4FCGoJfuv2XVbO9Yq4QBUwGSvNM0bGpYUVc3iY8jXsJwO`  
+📌 **Base URL**: `https://dev-b2b.iwexpress.com:5001`  
 
 ---
 
